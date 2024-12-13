@@ -1,0 +1,3 @@
+/Users/yunicai/Code_file/code/computer_graphic_homework/RayTrace/cmake-build-release/CMakeFiles/RayTrace.dir
+/Users/yunicai/Code_file/code/computer_graphic_homework/RayTrace/cmake-build-release/CMakeFiles/edit_cache.dir
+/Users/yunicai/Code_file/code/computer_graphic_homework/RayTrace/cmake-build-release/CMakeFiles/rebuild_cache.dir
